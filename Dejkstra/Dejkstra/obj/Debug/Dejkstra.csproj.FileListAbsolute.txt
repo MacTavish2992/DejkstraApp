@@ -1,0 +1,16 @@
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe.config
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\bin\Debug\Dejkstra.exe
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\bin\Debug\Dejkstra.pdb
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csproj.AssemblyReference.cache
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csproj.SuggestedBindingRedirects.cache
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\MainWindow.g.cs
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\App.g.cs
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra_MarkupCompile.cache
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra_MarkupCompile.lref
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\MainWindow.baml
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.g.resources
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.Properties.Resources.resources
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csproj.GenerateResource.cache
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.csproj.CoreCompileInputs.cache
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.exe
+C:\Users\v.voytekhovich\source\repos\Dejkstra\Dejkstra\obj\Debug\Dejkstra.pdb
